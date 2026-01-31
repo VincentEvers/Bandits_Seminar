@@ -1,7 +1,8 @@
 This Seminar was in partial fulfillement of the requirements for the degree of B.Sc. Statistics and Data Science at Ludwig-Maximilians-University.
 This repository contains all materials related to my topic of Multi-armed Bandits covered in the Online Learning seminar.
 
-Abstract of the report:
+Abstract:
+
 In this report we look at Multi-armed Bandits through the idea of Online Mirror
 Descent with estimated Gradients. By choosing negative entropy as the regularizer and
 using the softmax link function, we get the exponentiated gradient algorithm. We then
