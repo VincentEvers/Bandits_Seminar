@@ -10,7 +10,7 @@ look at its regret bound and show that, with the right learning rate, the algori
 achieves sublinear regret. Finally a small example is included to show how the weights
 change over time and how the regret behaves in practice.
 
-The Code was executed using R version 4.5.1 and the following packages:
+The code was executed using R version 4.5.1 and the following packages:
 - dplyr version 1.1.4
 - tidyr version 1.3.1
 - ggplot2 version 4.0.1
